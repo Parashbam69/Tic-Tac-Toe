@@ -1,0 +1,1 @@
+This is a tic tac toe game which we used to play during our childhood with our friends. I have made this while I was learning javascript. You can also use socket.io to play this game with friend in real time and make it responsive to use on mobile devices as well.
